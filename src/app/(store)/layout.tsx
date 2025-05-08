@@ -2,7 +2,6 @@
 import { Provider } from "react-redux";
 
 import StoreNavBar from "@/domains/store/shared/components/navbar";
-import Warning from "@/domains/store/shared/components/warning";
 import { shoppingCartStore } from "@/store/shoppingCart";
 
 import StoreFooter from "../../domains/store/shared/components/footer/index";
